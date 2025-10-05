@@ -1,0 +1,14 @@
+# Ignorar txAdmin (cache, db, logs)
+/txData/*/cache/
+/txData/*/logs/
+/txData/*/db/
+
+# Ignorar apenas a pasta [2^Mapas]
+/txData/Pantanal.base/resources/\[2^Mapas]/
+
+# Ignorar tudo dentro de txData /txData/*
+
+
+# Mas manter configs específicas (exemplo)
+!/txData/default/config.json
+
