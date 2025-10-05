@@ -1,5 +1,5 @@
 ║             TXADMIN║ ================================================================
-║             TXADMIN║ ======== [3176] FXServer Starting - 10/4/2025, 4:47:45 PM       
+║             TXADMIN║ ======== [372] FXServer Starting - 10/4/2025, 5:10:14 PM        
 ║             TXADMIN║ ================================================================
 [           resources] Scanning resources.
 [           resources] Found 72 resources.
@@ -117,18 +117,18 @@
 [         script:yarn] [2/4] Fetching packages...
 [         script:yarn] [3/4] Linking dependencies...
 [         script:yarn] [4/4] Building fresh packages...
-[         script:yarn] Done in 2.22s.
+[         script:yarn] Done in 1.20s.
 [         script:yarn] [yarn]	yarn install v1.22.5
 [         script:yarn] [1/4] Resolving packages...
 [         script:yarn] success Already up-to-date.
-[         script:yarn] Done in 2.13s.
+[         script:yarn] Done in 1.10s.
 [         script:yarn] Error: [yarn]	warning Waiting for the other yarn instance to finish (pid undefined, inside undefined)
 [         script:yarn] Error: [yarn]	warning Ignored scripts due to flag.
 [ citizen-server-impl] Build tasks completed - starting resource sessionmanager-rdr3.
 [    c-scripting-core] Creating script environments for sessionmanager-rdr3
 [           resources] Started resource sessionmanager-rdr3
 [ citizen-server-impl] Build tasks completed - starting resource sessionmanager-rdr3.
-[ citizen-server-impl] server thread hitch warning: timer interval of 218 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 179 milliseconds
 [      script:oxmysql] [12.0.2-MariaDB] Database server connection established!
 [ citizen-server-impl]         fff                          
 [ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
@@ -245,7 +245,7 @@
 [      script:monitor] [txAdmin] Server shutting down. Kicking all players.
 
 ║             TXADMIN║ ================================================================
-║             TXADMIN║ ======== [9000] FXServer Starting - 10/4/2025, 4:48:47 PM       
+║             TXADMIN║ ======== [9312] FXServer Starting - 10/4/2025, 5:10:57 PM       
 ║             TXADMIN║ ================================================================
 [           resources] Scanning resources.
 [           resources] Found 72 resources.
