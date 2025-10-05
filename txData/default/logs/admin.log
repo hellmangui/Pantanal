@@ -1,0 +1,11 @@
+================================================================
+======== txAdmin v8.0.1 atop fxserver 20559 Starting - 10/4/2025, 4:38:58 PM
+================================================================
+[16:40:05][Sevskaya] created admins file
+[16:40:53][Sevskaya] Config changes: general.serverName
+[16:40:53][Sevskaya] Changing global settings via setup stepper and started Deployer.
+[16:41:13][Sevskaya] Setting recipe.
+[16:43:10][Sevskaya] Running recipe.
+[16:47:45][Sevskaya] Config changes: server.dataPath
+[16:47:45][Sevskaya] Completed and committed server deploy.
+[16:48:42][Sevskaya] [Sevskaya] executed "RESTART SERVER"
